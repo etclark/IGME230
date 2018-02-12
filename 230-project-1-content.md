@@ -34,7 +34,8 @@ It's fairly obvious how to play the game and really won't require a tutorial. Th
 There isn't too much to learn other than memorizing the patterns of each wave to know where the player needs to move. 
 
 ## Screenshots
-![Space Steamship](https://i.scdn.co/image/0d367f0b872c1a20c92a25d4c511de7c262bbafa)
+![Boxed In predevelopment screenshot](https://github.com/etclark/IGME230/blob/master/Screen1.gif)
+![Boxed In predevelopment screenshot](https://github.com/etclark/IGME230/blob/master/Screen2.gif)
 
 ## Other
 TBD
